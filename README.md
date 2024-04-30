@@ -16,3 +16,4 @@ Web应用开发大作业---WHUT
 [Vue](https://cn.vuejs.org/guide/introduction.html)  
 [ElementUI](https://element.eleme.cn/#/zh-CN/component/installation)  
 [Webstorm](https://www.jetbrains.com/zh-cn/webstorm/)  
+[Axios](http://axios-js.com/zh-cn/docs/index.html)
